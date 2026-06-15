@@ -26,15 +26,21 @@ I'm passionate about building revolutionary intelligent machines that interact a
 <table align="center">
   <tr>
     <td align="center">
-      <h3>Sky2 Autonomous Drone</h3>
+      <a href="https://github.com/BekG123/Sky2-autonomous-drone">
+        <h3>Sky2 Autonomous Drone</h3>
+      </a>
       <img src="media/Sky2PicForGit.png" width="250" style="border-radius:12px;" />
     </td>
     <td align="center">
-      <h3>Music Generation with EEG & AI</h3>
+      <a href="https://github.com/BekG123/brain2bach">
+        <h3>Music Generation with EEG & AI</h3>
+      </a>
       <img src="media/TreeHacksProjectEEG.jpg" width="250" style="border-radius:12px;" />
     </td>
     <td align="center">
-      <h3>VeriSmart FPGA</h3>
+      <a href="https://github.com/BekG123/veri-smart-trades">
+        <h3>VeriSmart FPGA</h3>
+      </a>
       <img src="media/NandlandFPGS.jpg" width="250" style="border-radius:12px;" />
     </td>
   </tr>
