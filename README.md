@@ -4,8 +4,6 @@
 
 I'm passionate about building revolutionary intelligent machines that interact and help in the physical world.
 
----
-
 ## ⚡ Featured Work
 
 <p align="center">
@@ -39,12 +37,6 @@ Vision-Language-Action models for real-world robotic decision making.
 ## 📌 Pinned Projects
 
 Check out my pinned repositories below ↓
-
----
-
-## 🧠 Philosophy
-
-> “Build systems that don’t just simulate intelligence — they act in the real world.”
 
 ---
 
