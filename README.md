@@ -24,14 +24,26 @@ I'm passionate about building revolutionary intelligent machines that interact a
 
 ## 📌 Projects
 
-<p align="center">
-  <b>Sky2 Autonomous Drone</b>
-</p>
+<table align="center">
+  <tr>
+    
+    <!-- Project 1 -->
+    <td align="center">
+      <b>Sky2 Autonomous Drone</b><br><br>
+      <img src="INSERT_SKY2_IMAGE_URL_HERE" width="250"/>
+    </td>
 
-<p align="center">
-  Embedded autonomy stack combining firmware, perception, and AI planning.
-</p>
+    <!-- Project 2 -->
+    <td align="center">
+      <b>Music Generation with EEG and AI</b><br><br>
+      <img src="INSERT_EEG_IMAGE_URL_HERE" width="250"/>
+    </td>
 
-<p align="center">
-  Sky2 Autonomous Drone • Embedded Systems • AI Robotics Experiments
-</p>
+    <!-- Project 3 -->
+    <td align="center">
+      <b>VeriSmart FPGA</b><br><br>
+      <img src="INSERT_FPGA_IMAGE_URL_HERE" width="250"/>
+    </td>
+
+  </tr>
+</table>
