@@ -1,45 +1,74 @@
-# Hi, I'm Bek 👋
-
-###  Autonomous AI Systems & Robotics • Embedded Systems • Chip Design 
-
-I'm passionate about building revolutionary intelligent machines that interact and help in the physical world.
-
-## ⚡ Featured Work
-
 <p align="center">
-  <img src="https://via.placeholder.com/800x300.png?text=PCB+Trace+Style+Layout" />
+  <img src="https://via.placeholder.com/1200x300.png?text=Sky+Meets+Code+%7C+Autonomous+Systems" />
 </p>
 
-### 🚁 Sky2 Autonomous Drone  
-Real-time autonomous drone system with:
-- Embedded motor control (MicroPython / RP2040)
-- LIDAR-based perception
-- VLA-based autonomy stack
+<h1 align="center">Hi, I'm Bek</h1>
 
-### ⚙️ Embedded Systems  
-Low-level firmware + hardware control systems for robotics platforms.
+<p align="center">
+  Autonomous AI Systems & Robotics • Embedded Systems • Chip Design
+</p>
 
-### 🧠 VLA Research  
-Vision-Language-Action models for real-world robotic decision making.
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=BekG123&style=flat-square&color=blue" alt="Profile Views" />
+</p>
 
 ---
 
-## 🧩 What I Work On
-
-- Autonomous drones
-- Embedded firmware (MicroPython / C++)
-- Sensor fusion (LIDAR / IMU)
-- Real-time control systems
-- AI-driven robotics (VLA systems)
+<p align="center">
+I'm passionate about building revolutionary intelligent machines that interact and help in the physical world.
+</p>
 
 ---
 
-## 📌 Pinned Projects
+## 🚁 Featured Project
 
-Check out my pinned repositories below ↓
+<p align="center">
+  <b>Sky2 Autonomous Drone</b>
+</p>
+
+<p align="center">
+  Embedded autonomy stack combining firmware, perception, and AI planning.
+</p>
+
+---
+
+## ⚙️ What I Build
+
+<p align="center">
+  Embedded Systems • Real-time Control • Sensor Fusion • VLA Models
+</p>
+
+---
+
+## 🧠 Focus Areas
+
+- Autonomous drones & robotics
+- MicroPython / RP2040 firmware
+- Real-time motor control systems
+- LIDAR + sensor fusion
+- Vision-Language-Action (VLA) systems
+- Edge AI for robotics
+
+---
+
+## 📌 Projects
+
+<p align="center">
+  Sky2 Autonomous Drone • Embedded Systems • AI Robotics Experiments
+</p>
+
+---
+
+## 🧭 Philosophy
+
+<p align="center">
+  “Intelligence is only meaningful when it interacts with the real world.”
+</p>
 
 ---
 
 ## 📫 Connect
 
-Open to robotics, embedded systems, and autonomy collaborations.
+<p align="center">
+  Open to robotics, embedded systems, and autonomy collaborations.
+</p>
