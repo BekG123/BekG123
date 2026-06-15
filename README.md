@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Bek</h1>
+<h1 align="center">Hi, I'm Bek 👾</h1>
 
 <p align="center">
   Autonomous AI Systems & Robotics • Embedded Systems • Chip Design
