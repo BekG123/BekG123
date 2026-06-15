@@ -21,7 +21,7 @@ I'm passionate about building revolutionary intelligent machines that interact a
 </p>
 
 <p align="center">
-  <img src="media/" width="250" style="border-radius:12px;" />
+  <img src="media/GitHub.png" width="250" style="border-radius:12px;" />
 </p>
 
 ## 📌 Projects
