@@ -27,7 +27,7 @@ I'm passionate about building revolutionary intelligent machines that interact a
   <tr>
     <td align="center">
       <h3>Sky2 Autonomous Drone</h3>
-      <img src="..." width="250" style="border-radius:12px;" />
+      <img src="media/NandlandFPGS.jpg" width="250" style="border-radius:12px;" />
     </td>
     <td align="center">
       <h3>Music Generation with EEG & AI</h3>
