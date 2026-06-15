@@ -9,7 +9,7 @@
 <p align="center">
 I'm passionate about building revolutionary intelligent machines that interact and help in the physical world.
 </p>
-
+  
 <p align="center">
 
   <img src="https://img.shields.io/badge/Autonomous_AI_Systems_%26_Robotics-000000?style=for-the-badge&logo=robot&logoColor=white" />
@@ -20,7 +20,9 @@ I'm passionate about building revolutionary intelligent machines that interact a
 
 </p>
 
-
+<p align="center">
+  <img src="media/" width="250" style="border-radius:12px;" />
+</p>
 
 ## 📌 Projects
 <table align="center">
