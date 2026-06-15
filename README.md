@@ -19,7 +19,8 @@ I'm passionate about building revolutionary intelligent machines that interact a
   <img src="https://img.shields.io/badge/Chip_Design-4B0082?style=for-the-badge&logo=semver&logoColor=white" />
 
 </p>
----
+
+
 
 ## 📌 Projects
 
