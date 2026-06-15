@@ -9,7 +9,9 @@
 </p>
 
 <p align="center">
-  <img src="https://www.linkedin.com/in/bekhruz-malikov-7ab3881a3" alt="LinkedIn" />
+  <a href="https://www.linkedin.com/in/bekhruz-malikov-7ab3881a3/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" alt="LinkedIn" />
+  </a>
 </p>
 
 ---
