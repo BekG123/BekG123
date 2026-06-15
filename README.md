@@ -2,7 +2,7 @@
 
 ### Robotics Engineer • Embedded Systems Developer • Autonomous AI Systems Builder
 
-I'm passionate about building revolutionary intelligent machines that interact and help with the physical world.
+I'm passionate about building revolutionary intelligent machines that interact and help in the physical world.
 
 ---
 
