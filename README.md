@@ -6,26 +6,6 @@ I'm passionate about building revolutionary intelligent machines that interact a
 
 ---
 
-## 🔬 Current Focus
-
-```python
-class Bek:
-    interests = [
-        "Autonomous Drones",
-        "Embedded Systems",
-        "Robotics",
-        "Computer Vision",
-        "Vision-Language-Action Models",
-        "Real-Time Control Systems"
-    ]
-
-    current_project = "Sky2 Autonomous Drone"
-
-    mission = "Build intelligent systems that operate in the real world."
-```
-
----
-
 ## 🛠️ Tech Stack
 
 ### Languages
@@ -58,35 +38,6 @@ Check out my pinned repositories below:
 - 🤖 Robotics & AI Experiments
 - ⚡ Embedded Firmware Projects
 - 🧠 Autonomous Systems Research
-
----
-
-## 📈 What I'm Learning
-
-- Vision-Language-Action (VLA) Architectures
-- Autonomous Navigation
-- Sensor Fusion
-- ROS2
-- Multi-Agent Robotics
-- Real-Time AI Systems
-
----
-
-## 🏗️ Engineering Philosophy
-
-> Build systems that work outside the simulator.
-
-I enjoy solving problems where software, hardware, and intelligence intersect. My projects focus on creating reliable systems that interact with the physical world through sensing, reasoning, and action.
-
----
-
-## 🎯 2026 Goals
-
-- Complete the Sky2 autonomy stack
-- Integrate VLA-based navigation
-- Expand robotics and embedded systems portfolio
-- Contribute to open-source robotics projects
-- Build production-quality engineering workflows
 
 ---
 
