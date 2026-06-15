@@ -10,7 +10,7 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/bekhruz-malikov-7ab3881a3/" target="_blank">
-    <b>LinkedIn</b>
+    LinkedIn
   </a>
 </p>
 
