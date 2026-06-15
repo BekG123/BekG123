@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://via.placeholder.com/1200x300.png?text=Sky+Meets+Code+%7C+Autonomous+Systems" />
-</p>
-
 <h1 align="center">Hi, I'm Bek</h1>
 
 <p align="center">
@@ -13,8 +9,6 @@
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
-
----
 
 <p align="center">
 I'm passionate about building revolutionary intelligent machines that interact and help in the physical world.
