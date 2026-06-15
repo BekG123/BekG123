@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=BekG123&style=flat-square&color=blue" alt="Profile Views" />
+  <img src="https://www.linkedin.com/in/bekhruz-malikov-7ab3881a3" alt="LinkedIn" />
 </p>
 
 ---
