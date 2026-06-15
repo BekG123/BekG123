@@ -12,7 +12,7 @@ I'm passionate about building revolutionary intelligent machines that interact a
 
 <p align="center">
 
-  <img src="https://img.shields.io/badge/Autonomous_AI_Systems_%26_Robotics-FF6F00?style=for-the-badge&logo=robot&logoColor=white" />
+  <img src="https://img.shields.io/badge/Autonomous_AI_Systems_%26_Robotics-000000?style=for-the-badge&logo=robot&logoColor=white" />
 
   <img src="https://img.shields.io/badge/Embedded_Systems-007ACC?style=for-the-badge&logo=raspberrypi&logoColor=white" />
 
